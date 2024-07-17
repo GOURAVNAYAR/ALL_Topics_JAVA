@@ -21,6 +21,7 @@ public class AA_Collections_method {
 		list.add(16);
 		list.add(18);
 		list.add(20);
+		list.add(500);
 		System.out.println(" Normal Print " + list);
 
 		Collections.reverse(list); // reverse a Method......
