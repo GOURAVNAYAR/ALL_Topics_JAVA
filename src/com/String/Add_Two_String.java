@@ -10,7 +10,7 @@ public class Add_Two_String {
 		String lastName  = sc.nextLine();
 		
 		String fullName = firstName+ " " +lastName;
-		System.out.println(fullName);
+		System.out.print(fullName);
 	}
 
 }
