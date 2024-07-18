@@ -40,6 +40,30 @@ public class AA_Collections_method {
 		System.out.println("Empoty method" + list);
 		
 		
+		Collections.swap(list, 0, 3);  //			same as set
+		System.out.println(list);
+
+		list.set(0, 4);                //swap and set they are both use to change a place
+		System.out.println(list);
+
+		Collections.sort(list);				//short a list in Assending order like 1 2 3 4 5 
+		System.out.println(list);
+
+		Boolean b = list.contains(5); 		//find the elelment
+		System.out.println(b);
+
+		Collections.shuffle(list);
+		System.out.println(list);              //this method use for mix a Element
+
+		List<Integer> sublist = list.subList(1, 4);         //Get a Elemet between 1 to 4
+		System.out.println(sublist);
+
+		
+	        Boolean b1 =	list.equals(list1);     //compare two Object
+	        System.out.println(b1);
+	  
+	        list.add(0,55);			//add first position
+	        System.out.println(list);
 
 	}
 }
