@@ -20,7 +20,7 @@ public class User_Defind_Exception {
 		if (age < 18) {
 			throw new InvalidAgeException("not eligiable......");
 		} else {
-			System.out.println("you are eligiable voting........");
+			System.out.println("you are eligiable voting..........");
 		}
 	}
 
