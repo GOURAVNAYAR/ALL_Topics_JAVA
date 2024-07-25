@@ -24,6 +24,6 @@ public class ArrayList_AddPosition {
 
 		list.add(1, 4); // Add method
 
-		System.out.println(list);
+		System.out.println(list );
 	}
 }
