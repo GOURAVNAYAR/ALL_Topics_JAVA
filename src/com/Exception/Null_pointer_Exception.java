@@ -8,7 +8,7 @@ public class Null_pointer_Exception {
 		System.out.print(str.toUpperCase());
 	}
 		catch(NullPointerException e) {
-			System.out.println( " cannot be casted");
+			System.out.println( " cannot be casted........");
 		}
 	}
 }
