@@ -18,7 +18,7 @@ public class Fisrt_ForLoop {
 		list.add(20);
 		System.out.println(list);
 
-		for (int i = 0; i < list.size(); i++) { // for loop
+		for (int i = 0; i < list.size(); i++) { // for loop..............................
 			System.out.println(list.get(i));
 		}
 	}
