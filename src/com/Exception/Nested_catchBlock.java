@@ -12,7 +12,7 @@ public class Nested_catchBlock {
 		} catch (NullPointerException n) {
 			System.out.println(n + " Run on Second statment NullPointerException ");
 		} catch (ArithmeticException s) {
-			System.out.println(s + " Run on third statment ArithmeticException ");
+			System.out.println(s + " Run on third statment ArithmeticException.....................");
 		}
 
 	}
