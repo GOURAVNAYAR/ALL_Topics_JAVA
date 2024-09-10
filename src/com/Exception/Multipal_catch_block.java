@@ -19,7 +19,7 @@ public class Multipal_catch_block {
 		} catch (NullPointerException n) {
 			System.out.println(n);
 		} catch (Exception a) { 		//this is parent most class they are handle all tha Exception
-			System.out.println(a);		//ArrayIndexOutOfBoundsException .................
+			System.out.println(a);		//ArrayIndexOutOfBoundsException ........?..............
 		}
 	}
 
