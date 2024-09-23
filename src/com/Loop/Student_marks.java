@@ -16,7 +16,7 @@ public class Student_marks {
 				break;
 			}
 			if (Marks <= 89 && Marks >= 60) {
-				System.out.println("This is also Good....." + "\n" + "Because marks don’t matter but our effort does.");
+				System.out.println("This is also Good.........." + "\n" + "Because marks don’t matter but our effort does.");
 				break;
 			}
 
