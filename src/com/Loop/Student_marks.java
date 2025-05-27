@@ -12,7 +12,7 @@ public class Student_marks {
 		int i = 5;
 		do {
 			if (Marks >= 90) {
-				System.out.println("This is Good" + "\n" + "Because marks don’t matter but our effort does...");
+				System.out.println("This is Good" + "\n" + "Becausee marks don’t matter but our effort does...");
 				break;
 			}
 			if (Marks <= 89 && Marks >= 60) {
