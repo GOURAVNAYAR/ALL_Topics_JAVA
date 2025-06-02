@@ -9,7 +9,7 @@ public class Copy_oneArray_TO_secondArray {
 		int []arr = new int [5];
 		int []arrr = new int [5];
 		
-		System.out.println("first array Element STORE");
+		System.out.println("first array Element STORE....");
 		for (int i = 0; i < arr.length; i++) {
 			arr[i]=sc.nextInt();
 		}
