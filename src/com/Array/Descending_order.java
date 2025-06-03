@@ -7,7 +7,7 @@ public class Descending_order {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter a Size of Array.......");
+		System.out.println("Enter a Size of Array.........");
 		int size = scanner.nextInt();
 		int arr[] =new int[size];
 		
