@@ -6,7 +6,8 @@ public class Ascending_Order_in_Element {
 
 	public static void main(String[] args) {
 		//dwddwddwdwdwdw
-		//dwjdhwhdwj
+		//dwjdhwhdwjwdssd
+		//dsdsds
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter a Size of Array.......");
